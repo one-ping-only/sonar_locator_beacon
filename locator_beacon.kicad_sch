@@ -926,7 +926,6 @@
     )
   )
 
-
   (junction (at 196.85 99.06) (diameter 0) (color 0 0 0 0)
     (uuid 1eb3c196-012b-4948-9d7c-05a892f5feac)
   )
@@ -2300,7 +2299,7 @@
     (property "Value" "Speaker" (at 252.73 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" (at 247.65 68.58 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (at 247.65 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 247.396 64.77 0)
