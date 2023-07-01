@@ -443,7 +443,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "locator_beacon.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

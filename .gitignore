@@ -1,0 +1,6 @@
+*.csv
+*.step
+*.xml
+_autosave*
+*-backups/
+*auto_saved_files*
