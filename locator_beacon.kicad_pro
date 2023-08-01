@@ -403,7 +403,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "custom"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -443,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "locator_beacon.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -490,6 +492,14 @@
     [
       "45852106-87c2-4e1d-b1b1-72b985aa268b",
       "power"
+    ],
+    [
+      "9417e359-1c86-4e8d-97a7-eb92b3e0263a",
+      "amplifier"
+    ],
+    [
+      "d92881c5-0b92-4521-89d3-d0c88958302f",
+      "amplifier1"
     ]
   ],
   "text_variables": {}
