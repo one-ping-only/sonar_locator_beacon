@@ -4,3 +4,9 @@
 _autosave*
 *-backups/
 *auto_saved_files*
+*.bak
+*.gbr
+*.drl
+*.lck
+*.log
+*.gbrjob
