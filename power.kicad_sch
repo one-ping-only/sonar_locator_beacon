@@ -766,32 +766,6 @@
     (uuid 5491cfc6-127f-413d-8a06-b9db91c4984d)
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 217.17 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 1ff968b3-aa02-4e0b-a506-a9a015383058)
-    (property "Reference" "C2" (at 220.98 94.361 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "C" (at 220.98 96.901 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7" (at 218.1352 100.33 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 217.17 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c4d076f8-1ccb-4d6a-a0ae-063a77c9e248))
-    (pin "2" (uuid 58eb3a06-ad08-45a9-b857-f5a77e7df6d8))
-    (instances
-      (project "locator_beacon"
-        (path "/2e37f9ca-1f81-48a3-bbbb-9eab5c177622/45852106-87c2-4e1d-b1b1-72b985aa268b"
-          (reference "C2") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "custom_symbols:MIC2288") (at 151.13 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f9691c4-2688-4c61-bbdb-0d1bfb3fdc4e)
